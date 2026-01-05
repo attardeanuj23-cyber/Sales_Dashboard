@@ -22,7 +22,7 @@ This project is an interactive Power BI Sales Dashboard designed to analyze sale
 2) Revenue
 3) Quantity Sold
 4) Top Products
+5) Regional Performance
 
-
-
-Regional Performance
+The screenshot is attached below
+https://github.com/attardeanuj23-cyber/Sales_Dashboard/blob/main/Sales%20Dashboard.png
